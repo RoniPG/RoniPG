@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hola Mundo 👋
 
+Soy estudiante de Desarrollo de Aplicaciones Multiplaforma, con gran interés en ampliar mis conocimientos.
+Soy una persona trabajadora, comunicativa y comprometida.
 <!--
 **RoniPG/RoniPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
